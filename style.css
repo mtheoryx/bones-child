@@ -1,6 +1,11 @@
 /*
-Theme Name: Rabb & Howe
-Template: Bones
+Theme Name: 	Rabb & Howe
+Theme URI: 		https://github.com/mtheoryx/bones-child
+Description:	Child theme, based on the Bones H5BP-based theme
+Author:			David R Poindexter III
+Author URI:		http://davidrpoindexter.com/
+Template: 		Bones
+Version:		0.1
 */
 
 @import url("../bones/style.css");
