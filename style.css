@@ -8,4 +8,19 @@ Template: 		Bones
 Version:		0.1
 */
 
-@import url("../bones/style.css");
+/*
+Imported Stylesheets
+
+*/
+/*@import url("../bones/style.css");*/
+@import url("library/css/reset.css");
+@import url("library/css/text.css");
+@import url("library/css/960.css");
+@import url("library/css/custom.css");
+
+/*Colors Used*/
+/*
+Yellow:     #ffb000
+Red:        #ac2323
+Silver:     #777675
+*/
